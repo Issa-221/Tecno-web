@@ -3,6 +3,6 @@ Nom de la solution : EduConnect- plateforme web et mobile conçue pour donner au
 
 Domaine du projet : L'education 
 
-Nom Etudiant : Seydina Issa Laye Faye 
+Nom Etudiant : Seydina Issa Laye Faye   LRSI1-2
                
 Technologies utilisees : HTML / CSS / JavaScript / Git & GitHub
